@@ -1,0 +1,3 @@
+#Sample ID  Fasta location  Output directory
+Example1  /Users/rbr1/Google_Drive/My_documents/Immunology/CODE_TO_SHARE/NETWORK_GENERATION_2.0/TEST_FILES/Sequences_Example1.fasta  /Users/rbr1/Google_Drive/My_documents/Immunology/CODE_TO_SHARE/NETWORK_GENERATION_2.0/OUTPUT_TEST_FILES/
+Example2  /Users/rbr1/Google_Drive/My_documents/Immunology/CODE_TO_SHARE/NETWORK_GENERATION_2.0/TEST_FILES/Sequences_Example2.fasta  /Users/rbr1/Google_Drive/My_documents/Immunology/CODE_TO_SHARE/NETWORK_GENERATION_2.0/OUTPUT_TEST_FILES/
