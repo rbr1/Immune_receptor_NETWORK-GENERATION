@@ -17,13 +17,18 @@ Here, each vertex represents a different sequence, and the number of identical B
 a) Installation
 
 Install CD-HIT(10):
+
 • Download current CD-HIT at http://bioinformatics.org/cd-hit • Unpack the file with “tar xvf cd-hit-XXX.tar.gz --gunzip”
+
 • Change dir by “cd cd-hit-2006”
+
 • Compile the programs by “make”
 
 Download Immune-Network-Generation program (python script) and set up to user space: 
+
 • Change directory for CD-HIT program to correct location:
 line #36 cd_hit_directory = “cd-hit-v4.5.4-2011-03-07/" 
+
 • Install the following python module dependencies:
 sys, collections, os, operator, networkx
 
